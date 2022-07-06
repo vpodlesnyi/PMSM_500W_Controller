@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:04:46 PM On 7/6/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PMSM_500W_Controller.PcbDoc]
+   Generated File[PMSM_500W_Controller.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:04:56 PM On 7/6/2022
