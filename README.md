@@ -9,6 +9,6 @@ Technical specifications:
 - Hall sensors measurement.
 - Temperature sensor measurement (thermocouple drive circuit).
 - Accelerometer measurement (I2C).
-
-![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/PMSM1.PNG)
 ![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/PMSM2.PNG)
+![demo image](https://github.com/vpodlesnyi/PhotoForRepositories/blob/master/PMSM1.PNG)
+
